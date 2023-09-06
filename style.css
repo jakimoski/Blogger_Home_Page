@@ -1,0 +1,39 @@
+/* Custom colors */
+:root {
+  --dark-grey: #393939;
+  --purple-dark: #4900d5;
+  --color-white-muted: rgba(255, 255, 255, 0.5);
+  --color-white-muted-hover: rgba(255, 255, 255, 0.8);
+  --dark-overlay: rgba(19, 19, 19, 0.8);
+}
+/* Custom global styles */
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 50px;
+}
+img {
+  max-width: 100%;
+}
+/* Utility classes */
+.hero {
+  background-image: linear-gradient(var(--dark-overlay), var(--dark-overlay)),
+    url(./img/home.jpg);
+  background-size: cover;
+}
+.bg-purple {
+  background-color: var(--purple-dark);
+}
+.bg-dark-grey {
+  background-color: var(--dark-grey);
+}
+/* Bootstrap changes */
+.nav-pills .nav-link {
+  color: var(--color-white-muted);
+}
+.nav-pills .nav-link:hover {
+  color: var(--color-white-muted-hover);
+}
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+  background: none;
+}
