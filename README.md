@@ -4,7 +4,7 @@ This repository is dedicated to showcasing my weekly challenges solutions at Bra
 
 ## Project Live Preview
 
-<a href="https://jakimoski.github.io/Chalenge07-Bootsrtap/" target="_blank">Click Here</a>
+<a href="https://jakimoski.github.io/Chalenge07-Bootsrtap/" style="color:white"  target="_blank">Click Here</a>
 
 ```
 https://jakimoski.github.io/Chalenge07-Bootsrtap/
