@@ -37,3 +37,6 @@ img {
 .nav-pills .show > .nav-link {
   background: none;
 }
+.navbar-dark .navbar-toggler:focus-within {
+  border: 1px solid rgb(133, 133, 46);
+}
