@@ -4,7 +4,7 @@ For this asingment i deloped a home-page for a blogger website using Bootstrap.
 
 ## Project Blogger Live Preview
 
-<a href="https://jakimoski.github.io/Blogger_Home_Page/" style="color:white"  target="_blank">Blogger</a>
+Live preview: <a href="https://jakimoski.github.io/Blogger_Home_Page/" style="color:white"  target="_blank">Blogger</a>
 
 ```
 https://jakimoski.github.io/Chalenge07-Bootsrtap/
