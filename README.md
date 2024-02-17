@@ -1,32 +1,23 @@
-## Brainster Front-End Group FE-15 Weekly Challenges by Vlatko Jakimoski
+# Brainster Front-End Group FE-15 Weekly Challenges by Vlatko Jakimoski
 
-This repository is dedicated to showcasing my weekly challenges solutions at Brainster Academy's Front-End program.
+For this asingment i deloped a home-page for a blogger website using Bootstrap.
 
-## Project Live Preview
+## Project Blogger Live Preview
 
-<a href="https://jakimoski.github.io/Chalenge07-Bootsrtap/" style="color:white"  target="_blank">Click Here</a>
+<a href="https://jakimoski.github.io/Chalenge07-Bootsrtap/" style="color:white"  target="_blank">Blogger</a>
 
 ```
 https://jakimoski.github.io/Chalenge07-Bootsrtap/
 
 ```
 
-## Challenges Structure
-
-Each challenge has its own branch under the "main" branch, and each of the branches will have the name as the challenge, e.g., “Challenge 01 -
-HTML”, “Challenge 02 - CSS Intro”, etc.
-
 # Getting Started
 
 1. Clone the repository.
 
 ```
-git clone https://git.brainster.co/Vlatko.Jakimoski-FE15/brainsterchallenges_vlatkojakimoski_fe15.git
+https://github.com/jakimoski/Chalenge07-Bootsrtap.git
 
 ```
 
-2. Navigate to the appropriate challenge branches using the structure mentioned above.
-
-# Feedback and Review
-
-I would appreciate if you can provide feedback and comments on my submitted solutions.
+![Blogger project screencapture](./screencapture-blogger.jpeg)
